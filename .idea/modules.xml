@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../app/app.iml" filepath="$PROJECT_DIR$/../app/app.iml" group="okhttp/app" />
+      <module fileurl="file://$PROJECT_DIR$/../interceptor/interceptor.iml" filepath="$PROJECT_DIR$/../interceptor/interceptor.iml" group="okhttp/interceptor" />
+      <module fileurl="file://$PROJECT_DIR$/../okhttp.iml" filepath="$PROJECT_DIR$/../okhttp.iml" group="okhttp" />
+      <module fileurl="file://$PROJECT_DIR$/okhttp3.iml" filepath="$PROJECT_DIR$/okhttp3.iml" group="okhttp/okhttp3" />
+    </modules>
+  </component>
+</project>
